@@ -9,6 +9,6 @@ Aescribir ... Next you can update your site name, avatar and other options using
 
 ![alt text][logo]
 
-[logo] https://www.hostingmanual.net/wp-content/uploads/bluehost-review-3.jpg "ejemplo de title"
+[logo]: https://www.hostingmanual.net/wp-content/uploads/bluehost-review-3.jpg "ejemplo de title"
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
