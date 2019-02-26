@@ -3,7 +3,9 @@ layout: post
 title: The best comeback since Lazarus!
 ---
 
-A escribir :+1:!
+A escribir 
+:+1:!
+I give this plugin two :+1:!
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
